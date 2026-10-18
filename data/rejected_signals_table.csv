@@ -1,0 +1,4 @@
+kic_id,gaia_dr3_id,period_days,t0_btjd,depth_raw_ppm,raw_snr,detrended_snr,holdout_snr,odd_even_sigma,secondary_snr,centroid_offset_arcsec,rejection_reason,disposition
+12164160,2135231927371676928,19.41958,-2030.0152,5295.5,5.59,-0.78,0.29,1.47,1.68,0.55,Signal suppressed under robust median detrending; fails held-out confirmation test,FALSE_POSITIVE
+6629201,2076931701997782400,1.09689,-2036.0028,466.9,6.95,6.95,6.06,0.25,-3.72,0.081,"Secondary phase scan shows inverted secondary dip (-250 ppm, SNR -3.72); asymmetric stellar rotation artifact",FALSE_POSITIVE
+8803342,2106762341512983808,12.01235,-2028.188,1059.0,0.81,0.81,-0.09,1.57,1.12,0.245,Insufficient overall detection SNR (< 1.0); not recovered in holdout data,FALSE_POSITIVE

@@ -1,0 +1,14 @@
+{
+  "target_id": 2106194001379691136,
+  "target_g": 18.604486,
+  "target_ruwe": 0.9580131,
+  "max_delta_g": 4.450122285611707,
+  "faintest_blending_g": 23.054608285611707,
+  "expected_bg_stars_in_loc": 0.03361111111111111,
+  "p_beb": 4.369444444444444e-05,
+  "p_seb": 2.8349999999999998e-05,
+  "p_stp": 0.00042525,
+  "p_tp": 0.005039999999999999,
+  "astrophysical_fpp": 0.0898081995519272,
+  "validated_fpp_under_1p5pct": false
+}

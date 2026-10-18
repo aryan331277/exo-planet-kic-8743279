@@ -1,0 +1,40 @@
+{
+  "target_id": 2106194001379691136,
+  "kic_id": 8743279,
+  "period_days": 21.96193,
+  "t0_btjd": -2019.44507,
+  "duration_hours": 2.1408,
+  "vetting": {
+    "disposition": "CANDIDATE",
+    "reasons": [],
+    "primary_depth_ppm": 8266.901583785513,
+    "primary_err_ppm": 529.9808264126617,
+    "snr_local": 15.598491816661708,
+    "odd_depth_ppm": 8310.865364020925,
+    "even_depth_ppm": 8225.768440425996,
+    "odd_even_sigma": 0.08019419428139334,
+    "secondary_depth_ppm": -484.34518402840075,
+    "secondary_snr": -0.939632338842272,
+    "holdout_depth_ppm": 10873.937536837519,
+    "holdout_err_ppm": 853.9226105789425,
+    "holdout_snr": 12.734101898842106,
+    "n_in_transit": 152,
+    "n_holdout_in": 57
+  },
+  "centroid": {
+    "status": "OK",
+    "dx_pix": -0.054404410044455176,
+    "dy_pix": 0.002076062312038829,
+    "offset_pix": 0.05444400671339944,
+    "offset_arcsec": 0.21668714671932976,
+    "offset_err_arcsec": 0.9032075045609897,
+    "significance_sigma": 0.23990848794447522,
+    "on_target": true
+  },
+  "crossmatch": {
+    "n_kois_on_target": 0,
+    "matched_kois": [],
+    "is_novel": true
+  },
+  "plot_path": "C:\\Users\\USER\\Downloads\\planethunt-main\\independent_search_20261018\\pipeline\\independent_search_20261018\\figures\\kic_8743279_diagnostic.png"
+}
