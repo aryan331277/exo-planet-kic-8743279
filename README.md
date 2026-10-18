@@ -1,3 +1,5 @@
+   This is an entirely new exoplanet discovered which was previously not identified due to smog and it was frequently ignored.
+
 # KIC 8743279.01 Exoplanet Discovery Package
 
 **Target Identifier:** KIC 8743279 / Gaia DR3 2106194001379691136  
