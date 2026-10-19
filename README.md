@@ -1,6 +1,6 @@
    This is an entirely new exoplanet discovered which was previously not identified due to smog and it was frequently ignored.
 
-   Vercel Website:kic-8743279.vercel.app
+   Vercel Website:https://kic-8743279.vercel.app/
    ----
    Planet Visualisation:https://id-preview--c1452fc7-dd4e-4688-a6e7-fda521efc36d.lovable.app/?__lovable_receipt=mat_1rjmfvrafj8jtb0e5nhefcd2wb
 
